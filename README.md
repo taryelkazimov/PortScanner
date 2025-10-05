@@ -1,7 +1,7 @@
 # Network Port Scanner & Alert Script
 
 **Qısa təsvir:**  
-Bu repo lokal və global / icazəli şəbəkə aralığında port skanı aparır və əgər müəyyən "riskli" portlar aşkar edilərsə, e-poçt bildirişi göndərir.
+Bu repoda yerləşən scriptlər lokal və global / icazəli şəbəkə aralığında port skanı aparır və əgər müəyyən "riskli" portlar aşkar edilərsə, e-poçt bildirişi göndərir.
 
 ---
 
